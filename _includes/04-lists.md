@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+I like the books:
+* Great Gatsby
+* Gifted Hands
+* Art of War
+
+I will eat anywhere good food is.
